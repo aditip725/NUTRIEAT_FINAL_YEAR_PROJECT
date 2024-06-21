@@ -142,15 +142,3 @@ We welcome contributions from the community! To contribute:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, please contact us at [support@nutrieat.com](mailto:support@nutrieat.com).
-
----
-
-Feel free to adjust the details, especially the repository URL, contact email, and any specific project structure that fits your actual project setup.
